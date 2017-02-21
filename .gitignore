@@ -1,0 +1,17 @@
+*.class
+bin/
+build/
+target/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IDE Files #
+.classpath
+.project
+.settings/
+.metadata/
+
+ge-training-config
